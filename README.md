@@ -1,1 +1,18 @@
-# Siddu_07
+# 💫 About Me:
+👋 Hi, I’m Siddu<br><br>A Computer Science student passionate about problem-solving, system design, and building practical software solutions.<br>I enjoy working across web development, databases, operating systems, and AI-driven applications, with a strong focus on fundamentals.<br><br>👨‍💻 About Me<br><br>🔭 I’m currently working on<br><br>A Rental House & Hostel Finder Web Application (React, Node.js, MongoDB)<br><br>OS & Software Engineering Lab implementations (Scheduling, Deadlocks, UML diagrams)<br><br>An AI-GIS based pollution-resilient farming system (Prototype stage)<br><br>👯 I’m looking to collaborate on<br><br>Web development projects (MERN stack)<br><br>Academic / mini projects related to DBMS, OS, CN, or AI applications<br><br>Open-source beginner-friendly repositories<br><br>🤝 I’m looking for help with<br><br>System design best practices<br><br>Scaling full-stack applications<br><br>Advanced GATE-level problem solving<br><br>🌱 I’m currently learning<br><br>Operating Systems (Scheduling, Deadlocks, Memory Management)<br><br>Database Design & Advanced SQL<br><br>Computer Networks (GATE syllabus focused)<br><br>Software Engineering (UML, SDLC, Design Patterns)<br><br>💬 Ask me about<br><br>GATE CSE fundamentals<br><br>OS algorithms (FCFS, SJF, RR, Banker’s Algorithm)<br><br>SQL queries & database schemas<br><br>React basics and project structuring<br><br>⚡ Fun fact<br><br>I enjoy turning theory-heavy subjects into simple, visual explanations 🚀<br><br>🛠️ Tech Stack<br><br>Languages:<br>C Java Python JavaScript SQL<br><br>Frontend:<br>HTML CSS React Bootstrap<br><br>Backend & DB:<br>Node.js MongoDB MySQL<br><br>Tools & Platforms:<br>Git GitHub VS Code QGIS Firebase
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddu-kanaparthi-420616350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:238w1a12f3@vrsec.ac.in) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Siddu_07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Siddu_07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddu_07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Siddu_07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Siddu_07
